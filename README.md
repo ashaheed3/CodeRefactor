@@ -40,5 +40,15 @@ You are required to submit the following for review:
 
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
+## My changes
+* line 8 Changed title to something more descriptive 
+* line 13 Changed div tag to header 
+* line 16 Tried changing div tag to nav but it changed the formatting of the page. Changed it back 
+* line 32 Changed div tag to main 
+* line 34 Changed div tag to article  
+* line 36, 45, 54, 67, 76, 85 Changed div tag to section  
+* line 38, 47, 56, 70, 79, 88 Added alt attribute 
+* line 65 Changed div tag to aside  
+* line 96  Changed div tag to footer  
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
